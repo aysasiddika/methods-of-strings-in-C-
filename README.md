@@ -1,1 +1,1 @@
-# methods-of-strings-in-C-
+# methods-of-strings-in-C++
